@@ -548,6 +548,8 @@ box-shadow:0 6px 10px rgba(0,0,0,0.1);}
 #smb_my_ov .my_name{margin:10px 0}
 #smb_my_ov .btn_out{position:absolute;top:0;right:0;background:#fff;border-bottom:1px solid #e6e6e6;border-left:1px solid #e6e6e6;border-radius:0 0 0 5px;padding:0 5px;line-height:22px;font-size:11px;color:#777}
 
+#smb_my_wr {min-height:560px}
+
 .my_cou_wr{border-bottom:1px solid #e6e6e6;font-weight:bold;}
 .my_cou_wr:after {display:block;visibility:hidden;clear:both;content:""}
 .my_cou_wr .my_cou{float:left;width:50%;border-right:1px solid #e6e6e6;text-align:center;padding:10px 0}
