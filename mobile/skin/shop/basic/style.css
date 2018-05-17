@@ -388,9 +388,9 @@ filter: none;
 .sit_ov_input {height:1.8em;border:1px solid #b8c9c2;background:transparent;vertical-align:middle}
 .sit_ov_tbl button {margin:0}
 
-.sit_option_wr{background:#fff;}
-.sit_option_wr label{display:block;margin: 0 0 5px;color:#8b4e4e}
-.sit_option_wr select{width:100%;margin:0 0 5px}
+.sit_option{background:#fff;}
+.sit_option label{display:block;margin: 0 0 5px;color:#8b4e4e}
+.sit_option select{width:100%;margin:0 0 5px}
 
 
 .sit_op_sl{width:100%;border-collapse:collapse;}

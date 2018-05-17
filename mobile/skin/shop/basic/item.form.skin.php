@@ -203,7 +203,7 @@ $("#sit_pvi_slide").owlCarousel({
             <?php
             if($option_item) {
             ?>
-            <section class="sit_option_wr">
+            <section class="sit_option">
                 <h3>선택옵션</h3>
                 <table class="sit_op_sl">
                 <colgroup>
@@ -224,7 +224,7 @@ $("#sit_pvi_slide").owlCarousel({
             <?php
             if($supply_item) {
             ?>
-            <section class="sit_option_wr">
+            <section class="sit_option">
                 <h3>추가옵션</h3>
                 <table class="sit_op_sl">
                 <colgroup>
